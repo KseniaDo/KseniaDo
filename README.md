@@ -9,7 +9,7 @@ I'm a Frontend Web Developer 💻!
 ## 🤝 Connect with me by:
  
 - <a href="https://t.me/ksnidoma"><img align="center" src="https://cdn.simpleicons.org/Telegram" width="21px"/> @ksnidoma</a>
-- <img align="center" src="https://cdn.simpleicons.org/Gmail" width="21px"/> ksnidoma@gmail.com
+- <img align="center" src="https://cdn.simpleicons.org/Email" width="21px"/> kd0mnina@yandex.ru
  
 ## 💼 Technical Skills
  
